@@ -2,4 +2,4 @@
 # 1. Elección Licencia
 
   -La licencia es Licencia MIT
-  -Permite 
+  -Permite: Uso comercial, Modificación, Distribución, Uso privado.
